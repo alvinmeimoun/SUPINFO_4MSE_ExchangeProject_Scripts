@@ -1,0 +1,328 @@
+ID;Firstname;Lastname;location;department
+1;Althea;Klutts;Paris;Manager
+2;Hugh;Donelan;Paris;Manager
+3;Roxie;Clouser;Paris;Manager
+4;Marylou;Lukasiewicz;Paris;Marketing
+5;Darren;Faulks;Paris;Marketing
+6;Liza;Huhn;Paris;Marketing
+7;Lorrie;Chien;Paris;Marketing
+8;Amie;Francese;Paris;Marketing
+9;John;Diebold;Paris;Marketing
+10;Erik;Mongeau;Paris;Marketing
+11;Lance;Tomes;Paris;Marketing
+12;Ted;Cheers;Paris;Marketing
+13;Tim;Ocheltree;Paris;Marketing
+14;Cody;Salvia;Paris;Sales
+15;Noreen;Kalish;Paris;Sales
+16;Allan;Euler;Paris;Sales
+17;Lonnie;Buresh;Paris;Sales
+18;Darryl;Gillon;Paris;Sales
+19;Ted;Eaddy;Paris;Sales
+20;Malinda;Westrick;Paris;Sales
+21;Allan;Dildy;Paris;Sales
+22;Kenya;Moise;Paris;Sales
+23;Rae;Presti;Paris;Sales
+24;Guy;Franson;Paris;Sales
+25;Lakisha;Hesser;Paris;Sales
+26;Milagros;Woodburn;Paris;Sales
+27;Harriett;Minier;Paris;Sales
+28;Ted;Gertz;Paris;Sales
+29;Saundra;Bartsch;Paris;Sales
+30;Julianne;Furry;Paris;Sales
+31;Nelson;Keppler;Paris;Sales
+32;Clayton;Entrekin;Paris;Sales
+33;Allan;Kincannon;Paris;Sales
+34;Sofia;Smoak;Paris;Sales
+35;Lance;Schleich;Paris;Sales
+36;Guy;Kluge;Paris;Sales
+37;Emilia;Victorino;Paris;Sales
+38;Sofia;Arcand;Paris;Sales
+39;Carmella;Schuyler;Paris;Sales
+40;Kathrine;Vrooman;Paris;Call Center
+41;Darren;Lesser;Paris;Call Center
+42;Jessie;Thiem;Paris;Call Center
+43;Darren;Wetherell;Paris;Call Center
+44;Hugh;Forcier;Paris;Call Center
+45;Clinton;Murrah;Paris;Call Center
+46;Tanisha;Leggio;Paris;Call Center
+47;Max;Lenton;Paris;Call Center
+48;Max;Amezcua;Paris;Call Center
+49;Ted;Santa;Paris;Call Center
+50;Max;Housand;Paris;Call Center
+51;Ericka;Fermin;Paris;Call Center
+52;Mallory;Koo;Paris;Call Center
+53;Edwina;Deng;Paris;IT Department
+54;Christian;Antunes;Paris;IT Department
+55;Sofia;Hendrie;Paris;IT Department
+56;Chandra;Lassen;Paris;IT Department
+57;Jamie;Sumler;Paris;IT Department
+58;Lonnie;Mcgonagle;Bordeaux;Delivery team 1
+59;Tyrone;Simerly;Bordeaux;Delivery team 1
+60;Emilia;Orosz;Bordeaux;Delivery team 1
+61;Pearlie;Netter;Bordeaux;Delivery team 1
+62;Alana;Hilgefort;Bordeaux;Delivery team 1
+63;Nadine;Joshmith;Bordeaux;Delivery team 1
+64;Lakisha;Games;Bordeaux;Delivery team 1
+65;Harriett;Bartle;Bordeaux;Delivery team 1
+66;Nannie;Buchwald;Bordeaux;Delivery team 1
+67;Kelly;Neis;Bordeaux;Delivery team 1
+68;Max;Kinnison;Bordeaux;Delivery team 1
+69;Darryl;Makela;Bordeaux;Delivery team 2
+70;Christian;Whitelaw;Bordeaux;Delivery team 2
+71;Alana;Hanel;Bordeaux;Delivery team 2
+72;Hugh;Colorado;Bordeaux;Delivery team 2
+73;Fernando;Defeo;Bordeaux;Delivery team 2
+74;Clare;Galang;Bordeaux;Delivery team 2
+75;Julio;Turmelle;Bordeaux;Delivery team 2
+76;Jamie;Seabury;Bordeaux;Delivery team 2
+77;Milagros;Speziale;Bordeaux;Delivery team 2
+78;Noemi;Grizzell;Bordeaux;Delivery team 2
+79;Julio;Loach;Bordeaux;Delivery team 2
+80;Clayton;Bregman;Bordeaux;Delivery team 2
+81;Allan;Retana;Bordeaux;Delivery team 2
+82;Neil;Crumbley;Bordeaux;Delivery team 2
+83;Clayton;Jiang;Bordeaux;Delivery team 2
+84;Lonnie;Haskett;Bordeaux;Delivery team 3
+85;Jerri;Lieser;Bordeaux;Delivery team 3
+86;Jeanie;Radley;Bordeaux;Delivery team 3
+87;Erik;Loughran;Bordeaux;Delivery team 3
+88;Mathew;Topete;Bordeaux;Delivery team 3
+89;Allan;Ebinger;Bordeaux;Delivery team 3
+90;Clinton;Tilman;Bordeaux;Delivery team 3
+91;Lance;Mceuen;Bordeaux;Delivery team 3
+92;Erik;Gilcrease;Bordeaux;Delivery team 3
+93;Ken;Rimb;Bordeaux;Delivery team 3
+94;Lilia;Withey;Bordeaux;Delivery team 3
+95;Malinda;Hovland;Bordeaux;Delivery team 3
+96;Roslyn;Boydston;Bordeaux;Delivery team 3
+97;Gay;Shkreli;Bordeaux;Delivery team 3
+98;Kurt;Thon;Bordeaux;Delivery team 3
+99;Darryl;Urbain;Bordeaux;Delivery team 4
+100;Kurt;Rohan;Bordeaux;Delivery team 4
+101;Carmella;Mcclurkin;Bordeaux;Delivery team 4
+102;Earnestine;Moak;Bordeaux;Delivery team 4
+103;Althea;Mcmackin;Bordeaux;Delivery team 4
+104;Jessie;Armstong;Bordeaux;Delivery team 4
+105;Julianne;Marbury;Bordeaux;Delivery team 4
+106;Harriett;Geske;Bordeaux;Delivery team 4
+107;Allan;Maysonet;Bordeaux;Delivery team 4
+108;Tabatha;Kantz;Bordeaux;Delivery team 4
+109;Darren;Eddleman;Bordeaux;Delivery team 4
+110;Gay;Sambrano;Bordeaux;Delivery team 4
+111;Kathrine;Chalk;Bordeaux;Delivery team 4
+112;Louisa;Mroz;Bordeaux;Delivery team 4
+113;Darryl;Roeser;Bordeaux;Delivery team 4
+114;Clayton;Mummert;Bordeaux;Delivery team 5
+115;Noemi;Hopps;Bordeaux;Delivery team 5
+116;Hugh;Garand;Bordeaux;Delivery team 5
+117;Erik;Brittian;Bordeaux;Delivery team 5
+118;Guy;Lainez;Bordeaux;Delivery team 5
+119;Malinda;Selig;Bordeaux;Delivery team 5
+120;Lance;Mccampbell;Bordeaux;Delivery team 5
+121;Fernando;Dry;Bordeaux;Delivery team 5
+122;Tyrone;Penniman;Bordeaux;Delivery team 5
+123;Ted;Coady;Bordeaux;Delivery team 5
+124;Pearlie;Westby;Bordeaux;Delivery team 5
+125;Tabatha;Kitchin;Bordeaux;Delivery team 5
+126;Max;Lones;Bordeaux;Delivery team 5
+127;Max;Horak;Bordeaux;Delivery team 5
+128;Jami;Dahlman;Bordeaux;Delivery team 5
+129;Chandra;Grogg;Bordeaux;Delivery team 5
+130;Lance;Shibley;Bordeaux;Delivery team 5
+131;Tyrone;Shum;Bordeaux;Delivery team 5
+132;Kurt;Edwin;Bordeaux;Delivery team 6
+133;Darryl;Schreckengost;Bordeaux;Delivery team 6
+134;Margery;Merten;Bordeaux;Delivery team 6
+135;Clinton;Stretch;Bordeaux;Delivery team 6
+136;Allan;Malsam;Bordeaux;Delivery team 6
+137;Esmeralda;Saulter;Bordeaux;Delivery team 6
+138;Tyrone;Shoopman;Bordeaux;Delivery team 6
+139;Kenya;Ellers;Bordeaux;Delivery team 6
+140;Ted;Morais;Bordeaux;Delivery team 6
+141;Julio;Basch;Bordeaux;Delivery team 6
+142;Alan;Simsons;Bordeaux;Delivery team 6
+143;Nelson;Uplinger;Bordeaux;Delivery team 6
+144;Lilia;Quinton;Bordeaux;Delivery team 6
+145;Tameka;Fluharty;Bordeaux;Delivery team 6
+146;Erik;Twellman;Bordeaux;Delivery team 6
+147;Max;Asaro;Bordeaux;Delivery team 6
+148;Tania;Trevathan;Bordeaux;Delivery team 6
+149;Darren;Relyea;Bordeaux;Delivery team 7
+150;Darren;Barratt;Bordeaux;Delivery team 7
+151;Jessie;Burgamy;Bordeaux;Delivery team 7
+152;Mathew;Allaire;Bordeaux;Delivery team 7
+153;Clayton;Gulino;Bordeaux;Delivery team 7
+154;Neil;Darosa;Bordeaux;Delivery team 7
+155;Amie;Bonetti;Bordeaux;Delivery team 7
+156;Kurt;Parkes;Bordeaux;Delivery team 7
+157;Christian;Schuh;Bordeaux;Delivery team 7
+158;Althea;Ruppel;Bordeaux;Delivery team 7
+159;Chandra;Agrawal;Bordeaux;Delivery team 7
+160;Clinton;Jardin;Bordeaux;Delivery team 7
+161;Jamie;Kall;Bordeaux;Delivery team 7
+162;Ericka;Zalenski;Bordeaux;Delivery team 7
+163;Lonnie;Molock;Bordeaux;Delivery team 7
+164;Avilla;Alonso;Bordeaux;Delivery team 7
+165;Guy;Rozelle;Bordeaux;Delivery team 7
+166;Malinda;Giel;Bordeaux;Delivery team 7
+167;Kathrine;Tavera;Bordeaux;Delivery team 7
+168;Maricela;Cazarez;Bordeaux;Delivery team 7
+169;Kurt;Prosperie;Bordeaux;Delivery team 8
+170;Annabelle;Sabir;Bordeaux;Delivery team 8
+171;Elinor;Maziarz;Bordeaux;Delivery team 8
+172;Clayton;Simser;Bordeaux;Delivery team 8
+173;Allie;Samet;Bordeaux;Delivery team 8
+174;Tabatha;Trumble;Bordeaux;Delivery team 8
+175;Christian;Goldberger;Bordeaux;Delivery team 8
+176;Elinor;Giuffre;Bordeaux;Delivery team 8
+177;Clayton;Greenblatt;Bordeaux;Delivery team 8
+178;Dona;Bazile;Bordeaux;Delivery team 8
+179;Amie;Gaudin;Bordeaux;Delivery team 8
+180;Zelma;Clyne;Bordeaux;Delivery team 8
+181;Lenore;Grumbles;Bordeaux;Delivery team 8
+182;Elnora;Stayer;Bordeaux;Delivery team 8
+183;Julianne;Lattimer;Bordeaux;Delivery team 8
+184;Rosalinda;Christon;Bordeaux;Delivery team 8
+185;Hugh;Culton;Bordeaux;Delivery team 8
+186;Tyrone;Mcgarvey;Bordeaux;Delivery team 8
+187;Mathew;Zehnder;Bordeaux;Delivery team 8
+188;Julio;Mell;Bordeaux;Delivery team 8
+189;Alana;Wittig;Bordeaux;Delivery team 8
+190;Clinton;Gong;Bordeaux;Delivery team 8
+191;Julio;Eure;Bordeaux;Delivery team 8
+192;Lorrie;Fenderson;Bordeaux;Delivery team 8
+193;Jamie;Brassard;Bordeaux;Delivery team 9
+194;Clinton;Montijo;Bordeaux;Delivery team 9
+195;Lorrie;Ishii;Bordeaux;Delivery team 9
+196;Dona;Defreitas;Bordeaux;Delivery team 9
+197;Darren;Mceachin;Bordeaux;Delivery team 9
+198;Christian;Wrigley;Bordeaux;Delivery team 9
+199;Cody;Laprade;Bordeaux;Delivery team 9
+200;Tania;Blay;Bordeaux;Delivery team 9
+201;Alana;Berkman;Bordeaux;Delivery team 9
+202;Guy;Ladwig;Bordeaux;Delivery team 9
+203;Mallory;Fitzsimons;Bordeaux;Delivery team 9
+204;Javier;Blaze;Bordeaux;Delivery team 9
+205;Kathrine;Roye;Bordeaux;Delivery team 9
+206;Ericka;Hudock;Bordeaux;Delivery team 9
+207;Maricela;Berber;Bordeaux;Delivery team 9
+208;Tameka;Ditullio;Bordeaux;Delivery team 9
+209;Jessie;Malan;Bordeaux;Delivery team 9
+210;Rosalinda;Iversen;Bordeaux;Delivery team 9
+211;Cody;Loesch;Bordeaux;Delivery team 9
+212;Annabelle;Mccarron;Bordeaux;Delivery team 9
+213;Carlene;Delamater;Bordeaux;Delivery team 9
+214;Javier;Poppe;Bordeaux;Delivery team 9
+215;Lance;Sevier;Bordeaux;Delivery team 9
+216;Lilia;Chea;Bordeaux;Delivery team 9
+217;Clinton;Alvord;Bordeaux;Delivery team 9
+218;Nelson;Avey;Bordeaux;Delivery team 10
+219;Darryl;Cannaday;Bordeaux;Delivery team 10
+220;Tia;Walquist;Bordeaux;Delivery team 10
+221;Ashlee;Wilkenson;Bordeaux;Delivery team 10
+222;Clayton;Mcmartin;Bordeaux;Delivery team 10
+223;Milagros;Poucher;Bordeaux;Delivery team 10
+224;Dona;Tancredi;Bordeaux;Delivery team 10
+225;Marylou;Pelc;Bordeaux;Delivery team 10
+226;Jerri;Ryland;Bordeaux;Delivery team 10
+227;Fernando;Lisi;Bordeaux;Delivery team 10
+228;Noreen;Pulice;Bordeaux;Delivery team 10
+229;Kelly;Foushee;Bordeaux;Delivery team 10
+230;Maricela;Holdridge;Bordeaux;Delivery team 10
+231;Mallory;Lis;Bordeaux;Delivery team 10
+232;Erik;Pusey;Bordeaux;Delivery team 10
+233;Avis;Steinfeld;Bordeaux;Delivery team 10
+234;Jamie;Lady;Bordeaux;Delivery team 10
+235;Lonnie;Guiney;Bordeaux;Delivery team 10
+236;Hugh;Bourgault;Bordeaux;Delivery team 10
+237;Ericka;Cutchin;Bordeaux;Delivery team 10
+238;Fernando;Patt;Bordeaux;Delivery team 10
+239;Christian;Wineinger;Bordeaux;Delivery team 11
+240;Nelson;Anstett;Bordeaux;Delivery team 11
+241;Althea;Nowacki;Bordeaux;Delivery team 11
+242;Nita;Hocker;Bordeaux;Delivery team 11
+243;Guy;Helsel;Bordeaux;Delivery team 11
+244;Annabelle;Ye;Bordeaux;Delivery team 11
+245;Milagros;Taulbee;Bordeaux;Delivery team 11
+246;Jamie;Celaya;Bordeaux;Delivery team 11
+247;Julio;Cashin;Bordeaux;Delivery team 11
+248;Hugh;Ishmael;Bordeaux;Delivery team 11
+249;Fernando;Seekins;Bordeaux;Delivery team 11
+250;Clayton;Lotts;Bordeaux;Delivery team 11
+251;Earlene;Cangelosi;Bordeaux;Delivery team 11
+252;Lonnie;Easterday;Bordeaux;Delivery team 11
+253;Darren;Lones;Bordeaux;Delivery team 11
+254;Julio;Horstmann;Bordeaux;Delivery team 11
+255;Annabelle;Nicastro;Bordeaux;Delivery team 11
+256;Fernando;Kealey;Bordeaux;Delivery team 11
+257;Jessie;Barsh;Bordeaux;Delivery team 11
+258;Darren;Glad;Bordeaux;Delivery team 11
+259;Mathew;Filice;Bordeaux;Delivery team 11
+260;Neil;Breed;Bordeaux;Delivery team 11
+261;Nannie;Wikoff;Bordeaux;Delivery team 11
+262;Milagros;Pan;Bordeaux;Delivery team 11
+263;Ashlee;Gath;Bordeaux;Delivery team 11
+264;Kurt;Knapik;Bordeaux;Delivery team 11
+265;Milton;Stedman;Bordeaux;Delivery team 11
+266;Serena;Hysell;Bordeaux;Delivery team 12
+267;Nita;Fling;Bordeaux;Delivery team 12
+268;Eve;Voris;Bordeaux;Delivery team 12
+269;Lonnie;Kloster;Bordeaux;Delivery team 12
+270;Mathew;Boysen;Bordeaux;Delivery team 12
+271;Darryl;Bellard;Bordeaux;Delivery team 12
+272;Guy;Span;Bordeaux;Delivery team 12
+273;Dona;Captain;Bordeaux;Delivery team 12
+274;Mathew;Sprayberry;Bordeaux;Delivery team 12
+275;Kurt;Sliwa;Bordeaux;Delivery team 12
+276;Tania;Kruckeberg;Bordeaux;Delivery team 12
+277;Guy;Homeyer;Bordeaux;Delivery team 12
+278;Esmeralda;Shkreli;Bordeaux;Delivery team 12
+279;Rosalinda;Mullikin;Bordeaux;Delivery team 12
+280;Nita;Mogensen;Bordeaux;Delivery team 12
+281;Kurt;Dirks;Bordeaux;Delivery team 12
+282;Lakisha;Rast;Bordeaux;Delivery team 12
+283;Lonnie;Gadison;Bordeaux;Delivery team 12
+284;Mathew;Fuss;Bordeaux;Delivery team 12
+285;Hillary;Hilty;Bordeaux;Delivery team 12
+286;Mathew;Deak;Bordeaux;Delivery team 12
+287;Neil;Edling;Bordeaux;Delivery team 12
+288;Neil;Lukach;Bordeaux;Delivery team 13
+289;Darren;Valade;Bordeaux;Delivery team 13
+290;Neil;Pawlik;Bordeaux;Delivery team 13
+291;Nannie;Zalewski;Bordeaux;Delivery team 13
+292;Avis;Glance;Bordeaux;Delivery team 13
+293;Lance;Tea;Bordeaux;Delivery team 13
+294;Lilia;Farnan;Bordeaux;Delivery team 13
+295;Erik;Holleman;Bordeaux;Delivery team 13
+296;Clayton;Hipsher;Bordeaux;Delivery team 13
+297;Gay;Difalco;Bordeaux;Delivery team 13
+298;Jeanie;Klock;Bordeaux;Delivery team 13
+299;Jessie;Severt;Bordeaux;Delivery team 14
+300;Zelma;Moffat;Bordeaux;Delivery team 14
+301;Jessie;Siders;Bordeaux;Delivery team 14
+302;Pearlie;Mosca;Bordeaux;Delivery team 14
+303;Eve;Suddeth;Bordeaux;Delivery team 14
+304;Mathew;Foxx;Bordeaux;Delivery team 14
+305;Selena;Montufar;Bordeaux;Delivery team 14
+306;Ted;Mutch;Bordeaux;Delivery team 14
+307;Althea;Encinas;Bordeaux;Delivery team 14
+308;Fernando;Folkers;Bordeaux;Delivery team 14
+309;Carlene;Cryer;Bordeaux;Delivery team 14
+310;Darren;Pesina;Bordeaux;Delivery team 14
+311;Darren;Relyea;Bordeaux;Delivery team 14
+312;Darren;Antle;Bordeaux;Delivery team 14
+313;Fernando;Haggins;Bordeaux;Delivery team 14
+314;Liza;Jeanes;Bordeaux;Delivery team 14
+315;Nannie;Jacox;Bordeaux;Delivery team 14
+316;Zelma;Lefkowitz;Bordeaux;Delivery team 14
+317;Ted;Vetrano;Bordeaux;Delivery team 14
+318;Carmella;Sok;Bordeaux;Delivery team 14
+319;Ashlee;Marchal;Bordeaux;Delivery team 14
+320;Julio;Steinhauer;Bordeaux;Delivery team 14
+321;Avis;Shawn;Bordeaux;Delivery team 14
+322;Serena;Randel;Bordeaux;Bordeaux Management
+323;Pearlie;Slawson;Bordeaux;Bordeaux Management
+324;Sofia;Farone;Bordeaux;Bordeaux Management
+325;Noemi;Dartez;Bordeaux;Bordeaux Management
+326;Saundra;Ferron;Bordeaux;Bordeaux Management
+327;Mathew;Barren;Bordeaux;Bordeaux Management
