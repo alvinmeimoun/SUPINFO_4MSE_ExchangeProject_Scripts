@@ -1,5 +1,6 @@
 ﻿$CsvOutput = Import-Csv -Delimiter ";" -Path C:\Users\Administrateur.SUPMAIL\Desktop\Scripts\Employees.csv
 $password = ConvertTo-SecureString -String("Supinf0") -AsPlainText -Force
+add-pssnapin Microsoft.Exchange.Management.PowerShell.E2010
 
 foreach($User in $CsvOutput)
 {
@@ -15,5 +16,5 @@ foreach($User in $CsvOutput)
     $display_name = $Firstname + " " + $Lastname
 
     New-ADUser -Name $Name -EmployeeID $userid -Path $pathDepartment -AccountPassword $password -ChangePasswordAtLogon 1 -Enabled 1 -DisplayName $display_name -GivenName $Firstname -Surname $Lastname -City $location -EmailAddress $email
-
+    Enable-Mailbox -Identity $Name
 }
