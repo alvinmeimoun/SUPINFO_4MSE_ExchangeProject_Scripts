@@ -1,4 +1,6 @@
-﻿$CsvOutput = Import-Csv -Delimiter ";" -Path C:\Users\Administrateur.SUPMAIL\Desktop\Scripts\Employees.csv
+﻿import-module ActiveDirectory
+
+$CsvOutput = Import-Csv -Delimiter ";" -Path C:\Users\Administrateur.SUPMAIL\Desktop\Scripts\Employees.csv
 
 add-pssnapin Microsoft.Exchange.Management.PowerShell.E2010
 
